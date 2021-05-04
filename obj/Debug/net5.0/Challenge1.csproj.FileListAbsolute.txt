@@ -1,0 +1,16 @@
+C:\workspaces-cs\Challenge1\obj\Debug\net5.0\Challenge1.csprojAssemblyReference.cache
+C:\workspaces-cs\Challenge1\obj\Debug\net5.0\Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces-cs\Challenge1\obj\Debug\net5.0\Challenge1.AssemblyInfoInputs.cache
+C:\workspaces-cs\Challenge1\obj\Debug\net5.0\Challenge1.AssemblyInfo.cs
+C:\workspaces-cs\Challenge1\obj\Debug\net5.0\Challenge1.csproj.CoreCompileInputs.cache
+C:\workspaces-cs\Challenge1\bin\Debug\net5.0\Challenge1.exe
+C:\workspaces-cs\Challenge1\bin\Debug\net5.0\Challenge1.deps.json
+C:\workspaces-cs\Challenge1\bin\Debug\net5.0\Challenge1.runtimeconfig.json
+C:\workspaces-cs\Challenge1\bin\Debug\net5.0\Challenge1.runtimeconfig.dev.json
+C:\workspaces-cs\Challenge1\bin\Debug\net5.0\Challenge1.dll
+C:\workspaces-cs\Challenge1\bin\Debug\net5.0\ref\Challenge1.dll
+C:\workspaces-cs\Challenge1\bin\Debug\net5.0\Challenge1.pdb
+C:\workspaces-cs\Challenge1\obj\Debug\net5.0\Challenge1.dll
+C:\workspaces-cs\Challenge1\obj\Debug\net5.0\ref\Challenge1.dll
+C:\workspaces-cs\Challenge1\obj\Debug\net5.0\Challenge1.pdb
+C:\workspaces-cs\Challenge1\obj\Debug\net5.0\Challenge1.genruntimeconfig.cache
